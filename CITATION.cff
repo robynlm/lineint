@@ -1,0 +1,27 @@
+
+cff-version: 1.2.0
+title: lineint
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Robyn '
+    family-names: Munoz
+    email: robyn.munoz@yahoo.fr
+    orcid: 'https://orcid.org/0000-0003-3345-8520'
+    affiliation: University of Sussex
+identifiers:
+  - type: doi
+    value: 10.1103/PhysRevD.107.123536
+  - type: other
+    value: 'arXiv: 2302.09033 [astro-ph.CO]'
+repository-code: 'https://github.com/robynlm/lineint'
+abstract: >-
+  When integrating along a line on a grid, one can use this code to determine the size of the segments of the line contained within each grid cell.
+keywords:
+  - Numerical integration
+  - Line
+  - Grid
+license: GPL-3.0-or-later
+date-released: '2024-05-28'
